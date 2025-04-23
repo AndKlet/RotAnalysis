@@ -5,6 +5,7 @@ This project predicts tree rot using environmental and categorical data. The dat
 ---
 
 ## 📁 Dataset
+**Note that some collumns are missing for parts of the dataset**
 
 The dataset (`data.csv`) includes:
 
